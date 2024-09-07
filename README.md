@@ -1,0 +1,2 @@
+# Image-Classification-with-Data-Augmentation-using-Convolutional-Neural-Networks
+This project develops a Convolutional Neural Network (CNN) to classify images into two categories: personal and friend images. By applying data augmentation to a small dataset, the model is trained to improve classification accuracy. The provided code and model demonstrate how data augmentation can enhance performance in image classification tasks.
